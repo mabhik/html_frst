@@ -8,3 +8,7 @@ def second(request):
     return render(request,'second.html')
 def third(request):
     return render(request,'third.html')
+def fourth(request):
+    return render(request,'fourth.html')
+def fifth(request):
+    return render(request,'fifth.html')
